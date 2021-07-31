@@ -20,14 +20,14 @@ Abra o repositório no Visual Studio Code, e com o botão direito do mouse em ci
 Ou abra o arquivo "index.html" no repositório.
 
 ## Desktop
-![Desktop](https://github.com/abbueno/KidsFlix/img/desktop.jpg?raw=true "Versão Desktop")
+![Desktop](https://github.com/abbueno/KidsFlix/blob/main/img/desktop.jpg?raw=true "Versão Desktop")
 
-![Desktop](https://github.com/abbueno/KidsFlix/img/desktop.jpg?raw=true "Versão Desktop")
+![Desktop](https://github.com/abbueno/KidsFlix/blob/main/img/desktop.jpg?raw=true "Versão Desktop")
 
 ## Mobile
-![Mobile](https://github.com/abbueno/KidsFlix/img/mobile.jpg?raw=true "Versão Mobile")
+![Mobile](https://github.com/abbueno/KidsFlix/blob/main/img/mobile.jpg?raw=true "Versão Mobile")
 
-![Mobile](https://github.com/abbueno/KidsFlix/img/mobile.jpg?raw=true "Versão Mobile")
+![Mobile](https://github.com/abbueno/KidsFlix/blob/main/img/mobile.jpg?raw=true "Versão Mobile")
 
 ## Tecnologias
 * Visual Studio Code
